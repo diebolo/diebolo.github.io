@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - diebolo
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - remla24-team8/operation
+  - diebolo/mirte-master-simulator
+  - diebolo/nerv
+  - WisterianTK/PDM_Project
+  - SuperJappie08/BEP-Unitree-Event
+

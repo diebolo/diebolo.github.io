@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Dielof van Loon
     - name: Date of Birth
-      value: 14th March 1879
+      value: 11 April 2002
     - name: Languages
-      value: English, German
+      value: Dutch, English, German
 
 - title: Education
   type: time_table
