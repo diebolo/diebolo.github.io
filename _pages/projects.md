@@ -2,11 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: This is a selection of my projects.
+description: This is a selection of my projects. More projects can be found on the repositories page!
 nav: true
 nav_order: 3
 display_categories: [work, fun, uni]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->

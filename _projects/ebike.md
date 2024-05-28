@@ -45,3 +45,11 @@ I replaced the backwheel with the motor wheel and mounted the case. The e-bike i
     </div>
 </div>
 ---
+
+After my first e-bike I made 5 more e-bikes, including a cargo bike.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ebike/e7.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
