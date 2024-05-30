@@ -74,72 +74,34 @@
           }
       ]
   },
-  // "work": [
-  //     {
-  //         "company": "Various sidejobs",
-  //         "location": "",
-  //         "description": "",
-  //         "position": "Butcher, pizza delivery, grocer, festival bar crew",
-  //         "website": "",
-  //         "startDate": "2015-12-01",
-  //         "endDate": "2019-09-01",
-  //         "summary": "I worked a lot of different jobs, some highlights:\nUw Computerstudent, a company providing physical technical support to elderly.\nSOLID Crew, manning the bars of the biggest festivals in the Netherlands."
-  //     },
-  //     {
-  //         "company": "Uw Computerstudent",
-  //         "location": "",
-  //         "description": "",
-  //         "position": "Support Student",
-  //         "website": "",
-  //         "startDate": "2018-07-01",
-  //         "endDate": "2019-09-01",
-  //         "summary": "Computer assistance at home, ranging from setting up a local network to explaining Office."
-  //     }
-  // ],
   "education": [
       {
           "institution": "Adriaan Roland Holstschool",
           "area": "VWO (Preliminary Scientific Education)",
           "studyType": "",
           "startDate": "2015",
-          "endDate": "2020",
-          "gpa": "",
-          "courses": [
-              ""
-          ]
+          "endDate": "2020"
       },
       {
           "institution": "TU Delft",
           "area": "Mechanical Engineering",
           "studyType": "Bachelor",
           "startDate": "2020",
-          "endDate": "2023",
-          "gpa": "",
-          "courses": [
-              ""
-          ]
+          "endDate": "2023"
       },
       {
           "institution": "TU Delft",
           "area": "Computer Science",
           "studyType": "Minor",
           "startDate": "2022",
-          "endDate": "2022",
-          "gpa": "",
-          "courses": [
-              ""
-          ]
+          "endDate": "2022"
       },
       {
           "institution": "TU Delft",
           "area": "Robotics",
           "studyType": "Masters",
           "startDate": "2023",
-          "endDate": "",
-          "gpa": "",
-          "courses": [
-              ""
-          ]
+          "endDate": ""
       }
   ],
   "skills": [
