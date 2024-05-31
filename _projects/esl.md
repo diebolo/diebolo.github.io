@@ -8,7 +8,7 @@ category: uni
 related_publications: false
 ---
 
-For the course Embedded Systems Lab we had to develop the firmware for a drone, communicating with a client (a PC with a Joystick) and using the joystick input to control the drones yaw, roll, pitch and height. This project had to be done in Rust as latency and lag are a big issue with drones.
+For the course Embedded Systems Lab we had to develop the firmware for a drone, communicating with a client (a PC with a Joystick) and using the joystick input to control the drones yaw, roll, pitch and height using a PD controller. The sensor data (coming from an IMU) is filtered with a Kalman and a Butterworth filter. This project had to be done in Rust as latency and lag are a big issue with slower on-board drone computers.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
