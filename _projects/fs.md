@@ -3,7 +3,7 @@ layout: page
 title: bikeshop backend
 description: a high-end bike webshop
 img: assets/img/merida.jpg
-importance: 1
+importance: 6
 category: work
 related_publications: false
 ---

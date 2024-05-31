@@ -3,7 +3,7 @@ layout: page
 title: tripper
 description: Never too late!
 img: assets/img/sem/tripper-event.png
-importance: 2
+importance: 5
 category: uni
 related_publications: false
 ---
